@@ -11,7 +11,7 @@ int main() {
         printf("mask");
     }
     else {
-        printf("none");
+        printf("no");
     }
     return 0;
 }
