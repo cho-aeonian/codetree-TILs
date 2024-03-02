@@ -6,7 +6,7 @@ int main() {
     scanf("%d %c\n",&aage,&asex);
     scanf("%d %c",&bage,&bsex);
 
-    if(aage >= 19 && asex == 'M' || bage >= 19 && bsex == 'W') {
+    if(aage >= 19 && asex == 'M' || bage >= 19 && bsex == 'M') {
         printf("1");
     }
     else {
